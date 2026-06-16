@@ -20,7 +20,7 @@ script.css
 
 
 ## 🌐 Live Demo
-https://task-trackerz.netlify.app/
+https://web-calculator-appz.netlify.app/
 
 ## 💡 What I Learned
 - Handling user input
