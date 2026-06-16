@@ -14,13 +14,13 @@ A basic calculator built using HTML, CSS, and JavaScript that performs arithmeti
 - JavaScript
 
 ## 📂 Project Structure
-index.html
-styles.css
+index.html ,
+styles.css ,
 script.css
 
 
 ## 🌐 Live Demo
-(Add your Netlify link here)
+https://task-trackerz.netlify.app/
 
 ## 💡 What I Learned
 - Handling user input
